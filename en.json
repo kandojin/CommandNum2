@@ -1,0 +1,26 @@
+{
+    "welcome_text": "Welcome!",
+    "returning_user": "Returning User",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "forgot_password": "Forgot Password?",
+    "register": "Register",
+    "field": "Fill in all the fields",
+    "success":"Logged in successfully",
+    "connection":"Connection error",
+    "registration": "Registration",
+    "welcome": "Welcome!",
+    "full_name": "Full Name",
+    "iin": "IIN",
+    "address": "Address",
+    "nickname": "Name (nickname)",
+    "remail": "Email",
+    "rpassword": "Password",
+    "rconfirm_password": "Confirm Password",
+    "rregister": "Register",
+    "password_mismatch": "Passwords do not match",
+    "registration_success": "Registration successful!",
+    "error": "Error: {}"
+  }
+  

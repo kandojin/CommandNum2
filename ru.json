@@ -1,0 +1,26 @@
+{
+    "welcome_text": "Добро пожаловать!",
+    "returning_user": "С возвращением!",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "login": "Войти",
+    "forgot_password": "Забыли пароль?",
+    "register": "Регистрация",
+    "field": "Заполните все поля",
+    "success":"Успешный вход в систему",
+    "connection":"Ошибка соединения",
+    "registration": "Регистрация",
+    "welcome": "Добро пожаловать!",
+    "full_name": "Полное ФИО",
+    "iin": "ИИН",
+    "address": "Адрес проживания",
+    "nickname": "Имя (никнейм)",
+    "remail": "Email",
+    "rpassword": "Пароль",
+    "rconfirm_password": "Повторите пароль",
+    "rregister": "Зарегистрироваться",
+    "password_mismatch": "Пароли не совпадают",
+    "registration_success": "Регистрация успешна!",
+    "error": "Ошибка: {}"
+  }
+  

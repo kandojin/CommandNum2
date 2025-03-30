@@ -1,0 +1,67 @@
+name: build
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  cupertino_icons: ^1.0.8
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  chat_gpt_sdk: ^3.1.4
+  dash_chat_2: ^0.0.21
+  flutter_launcher_icons: ^0.14.3
+  url_launcher: ^6.3.1
+  flutter_native_splash: ^2.4.5
+  shared_preferences: ^2.5.2
+  google_maps_flutter: ^2.5.0
+  geolocator: ^10.1.0
+  geocoding: ^2.1.0
+  http: ^1.2.0
+  easy_localization: ^3.0.7+1
+  image_picker: ^1.0.7
+  path_provider: ^2.1.2
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/icon.png"
+  adaptive_icon_padding: false
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+flutter_native_splash:
+  color: "#1C4E88"
+  image: assets/icon.png
+  android: true
+  ios: true
+  fullscreen: true
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/translations/
+    - assets/news/
+    - assets/icon.png
+    - assets/instagram.png
+    - assets/menu_icon.png
+    - assets/kaz.png
+    - assets/eng.png
+    - assets/rus.png
+    - assets/gos-gerb.png
+    - assets/policeman.png
+    - assets/sos.png
+    - assets/user_marker.png
